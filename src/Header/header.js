@@ -255,7 +255,133 @@ export default function Header() {
               <div class="col-sm-12 col-md-4 card-prodcuts">
                 <div class="card w-100 mb-sm-3 mb-md-0">
                   <img
-                    src="https://static-01.daraz.pk/p/9cded9aeb8d17793cadbfc4879e7b8b1.jpg"
+                    src="https://static-01.daraz.pk/p/d5fd0acf56ef9839f3f8d64f8eed903b.jpg"
+                    class="card-img-top"
+                    alt="pizza"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">Stylish Shoes</h5>
+                    <p class="card-text">
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Delectus laboriosam error voluptates nulla molestias
+                      expedita ad dicta iure quasi vel voluptatibus, odio iste,
+                      earum ut excepturi, consequuntur in facilis eveniet.
+                    </p>
+                    <a href="void:(0)" class="btn btn-primary">
+                      Add To Cart
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-4 card-prodcuts">
+                <div class="card w-100 mb-sm-3 mb-md-0 mt-4">
+                  <img
+                    src="https://cf.shopee.ph/file/d9006ce26c07cefd31329ad8eeb27c0d"
+                    class="card-img-top"
+                    alt="pizza"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">Stylish Shoes</h5>
+                    <p class="card-text">
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Delectus laboriosam error voluptates nulla molestias
+                      expedita ad dicta iure quasi vel voluptatibus, odio iste,
+                      earum ut excepturi, consequuntur in facilis eveniet.
+                    </p>
+                    <a href="void:(0)" class="btn btn-primary">
+                      Add To Cart
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-4 card-prodcuts">
+                <div class="card w-100 mb-sm-3 mb-md-0 mt-4">
+                  <img
+                    src="https://img.joomcdn.net/703a04f865b71f0abc5624d8b4cf6f64513c8f97_original.jpeg"
+                    class="card-img-top"
+                    alt="pizza"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">Stylish Shoes</h5>
+                    <p class="card-text">
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Delectus laboriosam error voluptates nulla molestias
+                      expedita ad dicta iure quasi vel voluptatibus, odio iste,
+                      earum ut excepturi, consequuntur in facilis eveniet.
+                    </p>
+                    <a href="void:(0)" class="btn btn-primary">
+                      Add To Cart
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-4 card-prodcuts">
+                <div class="card w-100 mb-sm-3 mb-md-0 mt-4">
+                  <img
+                    src="https://static-01.daraz.pk/p/ec60d03eaf68646b71f8e48ccefeba11.jpg"
+                    class="card-img-top"
+                    alt="pizza"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">Stylish Shoes</h5>
+                    <p class="card-text">
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Delectus laboriosam error voluptates nulla molestias
+                      expedita ad dicta iure quasi vel voluptatibus, odio iste,
+                      earum ut excepturi, consequuntur in facilis eveniet.
+                    </p>
+                    <a href="void:(0)" class="btn btn-primary">
+                      Add To Cart
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-4 card-prodcuts">
+                <div class="card w-100 mb-sm-3 mb-md-0 mt-4">
+                  <img
+                    src="https://static-01.daraz.pk/p/ec60d03eaf68646b71f8e48ccefeba11.jpg"
+                    class="card-img-top"
+                    alt="pizza"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">Stylish Shoes</h5>
+                    <p class="card-text">
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Delectus laboriosam error voluptates nulla molestias
+                      expedita ad dicta iure quasi vel voluptatibus, odio iste,
+                      earum ut excepturi, consequuntur in facilis eveniet.
+                    </p>
+                    <a href="void:(0)" class="btn btn-primary">
+                      Add To Cart
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-4 card-prodcuts">
+                <div class="card w-100 mb-sm-3 mb-md-0 mt-4">
+                  <img
+                    src="https://static-01.daraz.pk/p/ee03fd7e0f15d717e9ceca33205d8abd.jpg"
+                    class="card-img-top"
+                    alt="pizza"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">Stylish Shoes</h5>
+                    <p class="card-text">
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Delectus laboriosam error voluptates nulla molestias
+                      expedita ad dicta iure quasi vel voluptatibus, odio iste,
+                      earum ut excepturi, consequuntur in facilis eveniet.
+                    </p>
+                    <a href="void:(0)" class="btn btn-primary">
+                      Add To Cart
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-4 card-prodcuts">
+                <div class="card w-100 mb-sm-3 mb-md-0 mt-4">
+                  <img
+                    src="https://static-01.daraz.pk/p/17471117735f6f43843739d41748188b.jpg"
                     class="card-img-top"
                     alt="pizza"
                   />
