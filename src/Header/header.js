@@ -21,9 +21,9 @@ export default function Header() {
 
             </header>
             <header class="position-sticky top-0">
-                <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
                     <div class="container">
-                        <a class="navbar-brand" href="#">Bootstrap</a>
+                        <a class="navbar-brand" href="#">Shopping Website</a>
                         <button
                             class="navbar-toggler"
                             type="button"
@@ -38,13 +38,16 @@ export default function Header() {
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                 <li class="nav-item">
-                                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                                    <a class="nav-link active custom-nav" aria-current="page" href="#">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="javascript:void(0)">About</a>
+                                    <a class="nav-link active custom-nav" href="javascript:void(0)">Products</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="javascript:void(0)">Contact</a>
+                                    <a class="nav-link active custom-nav" href="javascript:void(0)">Contact</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link active custom-nav" href="javascript:void(0)">LogIn</a>
                                 </li>
                             </ul>
                             <form class="d-flex">
@@ -145,7 +148,7 @@ export default function Header() {
                         <div class="conatiner">
                             <div class="row mb-4">
                                 <div class="col-sm-12 col-md-10 offset-md-1 text-center">
-                                    <h1>Our Menu</h1>
+                                    <h1>Our Products</h1>
                                     <p>
                                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse
                                         dolor incidunt delectus perspiciatis modi necessitatibus iste
@@ -159,7 +162,7 @@ export default function Header() {
                             <div class="col-sm-12 col-md-4">
                                 <div class="card w-100 mb-sm-3 mb-md-0">
                                     <img
-                                        src="./images/burgers/bg1.jpg"
+                                        src=""
                                         class="card-img-top"
                                         alt="burger"
                                     />
