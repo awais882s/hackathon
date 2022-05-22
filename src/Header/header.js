@@ -61,7 +61,7 @@ export default function Header() {
                 <li class="nav-item">
                   <a
                     class="nav-link active custom-nav"
-                    href="javascript:void(0)"
+                    href="#productsdown"
                   >
                     Products
                   </a>
@@ -72,6 +72,14 @@ export default function Header() {
                     href="javascript:void(0)"
                   >
                     Contact
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a
+                    class="nav-link active custom-nav"
+                    href="javascript:void(0)"
+                  >
+                    Cart
                   </a>
                 </li>
                 <li class="nav-item">
@@ -209,7 +217,7 @@ export default function Header() {
                 </div>
               </div>
             </div>
-            <div class="row">
+            <div class="row" id="productsdown">
               <div class="col-sm-12 col-md-4 card-prodcuts">
                 <div class="card w-100 mb-sm-3 mb-md-0 ">
                   <img
@@ -228,6 +236,9 @@ export default function Header() {
                     <a href="void:(0)" class="btn btn-primary">
                       Add To Cart
                     </a>
+                    <p className="fs-5 mt-3">
+                      Price:100$
+                    </p>
                   </div>
                 </div>
               </div>
@@ -249,6 +260,9 @@ export default function Header() {
                     <a href="void:(0)" class="btn btn-primary text-white">
                       Add To Cart
                     </a>
+                    <p className="fs-5 mt-3">
+                      Price:100$
+                    </p>
                   </div>
                 </div>
               </div>
@@ -256,7 +270,6 @@ export default function Header() {
                 <div class="card w-100 mb-sm-3 mb-md-0">
                   <img
                     src="https://static-01.daraz.pk/p/9cded9aeb8d17793cadbfc4879e7b8b1.jpg"
-                    src="https://static-01.daraz.pk/p/d5fd0acf56ef9839f3f8d64f8eed903b.jpg"
                     class="card-img-top"
                     alt="pizza"
                   />
@@ -271,6 +284,9 @@ export default function Header() {
                     <a href="void:(0)" class="btn btn-primary">
                       Add To Cart
                     </a>
+                    <p className="fs-5 mt-3">
+                      Price:100$
+                    </p>
                   </div>
                 </div>
               </div>
@@ -292,6 +308,9 @@ export default function Header() {
                     <a href="void:(0)" class="btn btn-primary">
                       Add To Cart
                     </a>
+                    <p className="fs-5 mt-3">
+                      Price:100$
+                    </p>
                   </div>
                 </div>
               </div>
@@ -313,6 +332,9 @@ export default function Header() {
                     <a href="void:(0)" class="btn btn-primary">
                       Add To Cart
                     </a>
+                    <p className="fs-5 mt-3">
+                      Price:100$
+                    </p>
                   </div>
                 </div>
               </div>
@@ -334,6 +356,9 @@ export default function Header() {
                     <a href="void:(0)" class="btn btn-primary">
                       Add To Cart
                     </a>
+                    <p className="fs-5 mt-3">
+                      Price:100$
+                    </p>
                   </div>
                 </div>
               </div>
@@ -355,6 +380,9 @@ export default function Header() {
                     <a href="void:(0)" class="btn btn-primary">
                       Add To Cart
                     </a>
+                    <p className="fs-5 mt-3">
+                      Price:100$
+                    </p>
                   </div>
                 </div>
               </div>
@@ -376,6 +404,9 @@ export default function Header() {
                     <a href="void:(0)" class="btn btn-primary">
                       Add To Cart
                     </a>
+                    <p className="fs-5 mt-3">
+                      Price:100$
+                    </p>
                   </div>
                 </div>
               </div>
@@ -397,6 +428,9 @@ export default function Header() {
                     <a href="void:(0)" class="btn btn-primary">
                       Add To Cart
                     </a>
+                    <p className="fs-5 mt-3">
+                      Price:100$
+                    </p>
                   </div>
                 </div>
               </div>
