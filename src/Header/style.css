@@ -1,0 +1,40 @@
+/* .products a {
+  font-family: "Courier New", Courier, monospace;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+} */
+.faqs {
+  background: #12c2e9; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f64f59,
+    #c471ed,
+    #12c2e9
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #f64f59,
+    #c471ed,
+    #12c2e9
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+header {
+  z-index: 999;
+}
+footer {
+  height: 40px;
+}
+footer p,
+a {
+  line-height: 40px;
+}
+.products .card:hover {
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+#alert-header {
+  background-color: #cff4fc;
+}
