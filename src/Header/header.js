@@ -255,6 +255,7 @@ export default function Header() {
               <div class="col-sm-12 col-md-4 card-prodcuts">
                 <div class="card w-100 mb-sm-3 mb-md-0">
                   <img
+                    src="https://static-01.daraz.pk/p/9cded9aeb8d17793cadbfc4879e7b8b1.jpg"
                     src="https://static-01.daraz.pk/p/d5fd0acf56ef9839f3f8d64f8eed903b.jpg"
                     class="card-img-top"
                     alt="pizza"
