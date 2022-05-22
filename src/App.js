@@ -1,10 +1,8 @@
-import "../src/Bootstraps/index.css"
+import Index from "./Header";
 function App() {
   return (
     <div className="App">
-      <h1>
-        welcome to hackathon in saylani
-      </h1>
+      <Index />
     </div>
   );
 }
