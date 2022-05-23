@@ -1,6 +1,7 @@
 import React from "react";
 import "../Header/style.css";
 import "../Bootstraps/index.css";
+import { FaBeer } from 'react-icons/fa';
 // import abc from "./Assets/abc.jpg";
 // import abcd from "./Assets/abcd.jpg";
 // import efg from "./Assets/efg.jpg";
@@ -19,6 +20,7 @@ export default function Header() {
                 <a href="javascript:void(0)" class="alert-link">
                   Check Now
                 </a>
+                
                 <button
                   type="button"
                   class="btn-close"
@@ -50,11 +52,14 @@ export default function Header() {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
+                  
                   <a
                     class="nav-link active custom-nav"
                     aria-current="page"
                     href="#"
                   >
+                  <FaBeer className="text-white" style={{fontSize:"2rem", padding:"1px"}} />
+
                     Home
                   </a>
                 </li>
@@ -79,6 +84,7 @@ export default function Header() {
                     class="nav-link active custom-nav"
                     href="javascript:void(0)"
                   >
+                    
                     Cart
                   </a>
                 </li>
